@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🧑‍💻 Attualmente sto lavorando su alcuni progetti personali <br>👨‍🎓 Ho da poco completato un percorso da full stack web developer presso Boolean<br>🎯 I miei prossimi obiettivi sono quelli di trovare come Web Developer e ampliare il mio stack di linguaggi</p>
+<p align="left">🧑‍💻 Attualmente sto lavorando su alcuni progetti personali <br>👨‍🎓 Ho da poco completato un percorso da full stack web developer presso Boolean<br>🎯 I miei prossimi obiettivi sono quelli di trovare lavoro come Web Developer e ampliare il mio stack di linguaggi</p>
 
 ###
 
